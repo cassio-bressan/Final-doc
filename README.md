@@ -1,2 +1,2 @@
 # Final-doc
-Apresentação do último projeto da Tripleten
+Repositório temporário que contém um arquivo PDF com minha apresentação do último projeto da tripleten.
